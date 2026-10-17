@@ -1,0 +1,4 @@
+interface:
+  display_name: "Committee Meeting Minutes"
+  short_description: "Concise committee updates, decisions, and action items"
+  default_prompt: "Use $committee-meeting-skill to turn this agenda and transcript into concise committee minutes."
