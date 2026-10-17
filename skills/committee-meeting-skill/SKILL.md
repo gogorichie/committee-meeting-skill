@@ -1,19 +1,19 @@
 ---
 name: committee-meeting-skill
-description: Draft and revise concise committee or board meeting minutes from agendas, transcripts, notes, and user corrections. Use for Richard Lewis's church committee minutes, Board of Properties, Technology Task Force, and similar meetings when the user wants the October 12 2026 format with brief updates, decisions, motions, and action items instead of detailed conversation.
+description: Draft and revise concise committee or board meeting minutes from agendas, transcripts, notes, and user corrections. Use for any committee, board, task force, project team, or other meeting, in any organization, when the user wants brief updates, decisions, motions, and action items instead of detailed conversation.
 ---
 
 # Committee Meeting Minutes
 
-Produce concise, useful minutes in the format Richard approved on October 17, 2026. Answer three questions for each topic: What is the update? What is happening next? Who needs to take action?
+Produce concise, useful minutes for the organization and meeting identified in the current request. Answer three questions for each topic: What is the update? What is happening next? Who needs to take action?
 
 ## Gather the meeting facts
 
 1. Read the supplied agenda and transcript or notes. Reuse the current document when revising minutes; preserve its file identity and earlier corrections.
 2. Use the agenda for the meeting date, committee name, section order, and next meeting. Use the transcript for what actually happened. Prefer the user's latest explicit correction over either source.
 3. Identify the actual presiding officer separately from the committee chair. Record a chair as present even when another person led the meeting.
-4. Record attendance, late arrivals, opening prayer or devotion, approval of prior minutes, motions, decisions, assignments, closing prayer, and adjournment when supported.
-5. Read [references/format.md](references/format.md) for the approved organization, visual specifications, and examples. For SPLC meetings, also read [references/splc.md](references/splc.md) for confirmed names and context.
+4. Record attendance, late arrivals, opening business, approval of prior minutes, motions, decisions, assignments, and adjournment when supported. Include prayer, devotion, or other traditions only when they actually occurred or the agenda calls for them.
+5. Read [references/format.md](references/format.md) for the approved organization, visual specifications, and examples. Do not assume a church, property committee, particular organization, attendee roster, or meeting tradition. Obtain names and roles from the current sources and confirmed user corrections.
 
 ## Write the minutes
 
@@ -40,4 +40,4 @@ Produce concise, useful minutes in the format Richard approved on October 17, 20
 
 ## Follow-up actions
 
-Do not automatically send email, create calendar events, or add tasks when asked only for minutes. When explicitly asked to distribute them, use the latest relevant committee correspondence to resolve recipients and honor explicit additions. Attach the current revision, identify it as draft when appropriate, and ask for corrections. When asked to create SPLC Todoist tasks, apply the SPLC label.
+Do not automatically send email, create calendar events, or add tasks when asked only for minutes. When explicitly asked to distribute them, use the latest relevant meeting or group correspondence to resolve recipients and honor explicit additions. Attach the current revision, identify it as draft when appropriate, and ask for corrections. Apply task projects, labels, and recipient lists only when established for the current organization or explicitly requested. Never carry them over from an unrelated meeting.
