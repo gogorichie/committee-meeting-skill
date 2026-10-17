@@ -2,23 +2,23 @@
 
 Use this structure, adapting the agenda's labels and order as needed:
 
-1. **Title** — Committee or board name followed by Meeting Minutes.
+1. **Title** — Meeting, committee, board, or team name followed by Meeting Minutes.
 2. **Organization and meeting date** — Two compact lines; mark Draft for review when applicable.
-3. **Opening business** — Actual presiding officer and call-to-order time; attendance and late arrivals; prayer and devotion; prior minutes and any motion to approve them.
+3. **Opening business** — Actual presiding officer and call-to-order time; attendance and late arrivals; opening remarks or traditions if applicable; prior minutes and any motion to approve them.
 4. **Old business** — One paragraph for each continuing agenda topic.
 5. **New business** — One paragraph for each new topic, including planning or membership changes when discussed.
-6. **Assignments and next meeting** — Next meeting date and time, acting chair if relevant, and assigned prayer or devotion leaders.
-7. **Closing** — Closing prayer leader and confirmed adjournment time.
+6. **Assignments and next meeting** — Next meeting date and time, acting chair if relevant, and any assigned roles.
+7. **Closing** — Confirmed adjournment time and any closing activity that actually occurred.
 
-Omit empty sections. Do not add a transcript, discussion narrative, separate executive summary, duplicated action register, or draft-confirmation section unless requested.
+For less formal meetings, use Continuing business, Discussion items, or agenda-specific headings instead of forcing Old business and New business. Omit a next-meeting section when no next meeting was set. Omit empty sections. Do not add a transcript, discussion narrative, separate executive summary, duplicated action register, or draft-confirmation section unless requested.
 
 ## Topic examples
 
-**Storage shed.** Village approval remains pending. The quoted cost is $14,000. Richard and the chair will update the Board of Directors and coordinate the next Village discussion.
+**Event planning.** The venue has confirmed availability. The team selected the morning session. Jordan will confirm the booking by Friday.
 
-**Snow removal.** Richard moved, and Zeke seconded, to recommend the seasonal contract at $7,120 for November through March. Record the vote result only if confirmed. The chair will present the recommendation to the Board of Directors.
+**Service contract.** Alex moved, and Morgan seconded, to recommend the annual agreement at $7,200. The motion passed with six in favor and one opposed. The chair will send the recommendation to the board.
 
-**Budget.** Members received a preliminary budget for review. No budget was approved. Members will review it before the next meeting, and Richard will clarify expense categories with the treasurer.
+**Budget.** Members received a preliminary budget for review. No budget was approved. Members will review it before the next meeting, and Taylor will clarify expense categories with the finance lead.
 
 Treat examples as writing patterns, not facts for a future meeting. Replace all names, costs, dates, and decisions with the current meeting's evidence.
 
