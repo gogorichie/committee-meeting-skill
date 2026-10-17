@@ -1,12 +1,13 @@
 # Committee Meeting Skill
 
-Create short, clear committee minutes from an agenda, transcript, or notes. Each topic explains the update, decision, and next action.
+Create short, clear meeting minutes from an agenda, transcript, or notes. Each topic explains the update, decision, and next action.
 
-The skill follows the two-page format Richard Lewis chose for St. Peter's October 12, 2026 Board of Properties minutes. It also works for other committees and boards.
+Use the same clean structure for any committee, board, task force, project team, or organization. The skill takes the meeting name, people, roles, and traditions from your current sources.
 
 ## What it does
 
-- Follows the meeting agenda.
+- Follows the meeting agenda and adapts section names to the meeting.
+- Includes prayer or other traditions only when relevant to that meeting.
 - Records who led the meeting, attendance, motions, decisions, and closing time.
 - Keeps important costs and dates.
 - Names action owners when they are known.
@@ -28,6 +29,5 @@ The skill needs document-creation tools to produce Word files. It only sends ema
 
 - [Skill instructions](skills/committee-meeting-skill/SKILL.md)
 - [Minutes layout](skills/committee-meeting-skill/references/format.md)
-- [SPLC name spellings](skills/committee-meeting-skill/references/splc.md)
 
 Actual meeting records, email addresses, and transcripts are not stored in this repository.
